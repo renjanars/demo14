@@ -1,4 +1,4 @@
-.counter-container {
+.container {
     text-align: center;
     margin-top: 50px;
   }
@@ -11,7 +11,7 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    
   }
   
   .increment-button:hover {

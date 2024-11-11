@@ -6,7 +6,7 @@ function AutoIncrementCounter() {
     setCount(count + 1);
   };
 return (
-    <div className="counter-container">
+    <div className="container">
       <h1>Counter: {count}</h1>
       <button onClick={incrementCount} className="increment-button">
         Increment
